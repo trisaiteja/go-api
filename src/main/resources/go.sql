@@ -1,0 +1,1 @@
+CREATE TABLE public.go(id serial PRIMARY KEY, name VARCHAR(100), short_name VARCHAR(50),  description VARCHAR(255), url VARCHAR(255));
